@@ -1,0 +1,44 @@
+#oni_box {
+    position: fixed;
+    bottom: 5%;
+    left: 0;
+    z-index: 10;
+}
+
+#oni_close {
+    font-size: 50%;
+    color: #DC143C;
+    font-family: sans-serif;
+}
+
+.oni-container
+{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.oni-text
+{
+    background-color: white;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    font-family: "Papyrus";
+    font-size: 175%;
+    height: 128px;
+}
+
+.oni-left
+{
+    flex-grow: 0;
+}
+
+.oni-right
+{
+    flex-grow: 0;
+}

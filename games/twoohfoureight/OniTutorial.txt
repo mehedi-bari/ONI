@@ -1,0 +1,1 @@
+You will need a strategic mind to excel in 2048...<br>Use the arrow keys to slide the tiles. Combine two of the same type to reach higher numbers!

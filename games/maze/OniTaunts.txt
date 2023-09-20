@@ -1,0 +1,1 @@
+Your previous highest Maze Game score<br>is a pathetic PBEST points. Sad!
